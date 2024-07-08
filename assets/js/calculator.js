@@ -13,8 +13,9 @@ function clearAll() {
 }
 
 function result() {
-    // eval () avalia e executa código, incluindo expressões aritméticas passadas como strings.
-    let y = eval(display.value);
+
+    // math.evaluate avalia expressões matemáticas de forma segura
+    let y = math.evaluate(display.value);
     display.value = y;
 
     if (display.value == "undefined") {
