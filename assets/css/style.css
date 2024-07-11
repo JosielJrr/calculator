@@ -15,9 +15,10 @@ body {
 }
 
 .calculator {
+    height: 19.0625rem;
     display: flex;
     flex-direction: column;
-    background-color: grey;
+    background-color: #f2f2f2;
     padding: 2px;
     border-radius: 4px;
 }
@@ -73,9 +74,10 @@ section {
 .button-clear {
     width: 5rem;
     position: absolute;
-    margin-left: 7.5rem;
-    margin-top: 18.75rem;
-    border-radius: 4px;
+    margin-left: 3.75rem;
+    margin-top: 17.3125rem;
+    padding: 0.125rem;
+    border-radius: 0.625rem;
     border: none;
     cursor: pointer;
     background-color: lightblue;
