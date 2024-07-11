@@ -1,7 +1,7 @@
 # Calculadora Web :1234:
 
 <div align="center">
-  <img src="assets/img/calculator.PNG" alt="Logo do YouTube" width=150px>
+  <img src="assets/img/calculadora.PNG" alt="Logo do YouTube" width=280px>
 </div>
 
 ## Descrição
@@ -24,7 +24,7 @@ Esta é uma aplicação web de calculadora simples que realiza operações aritm
 - JavaScript
 
 ## Instalação
-1. Clone o repositório: `git clone https://github.com/seu-usuario/nome-do-repositorio.git`
+1. Clone o repositório: `git clone https://github.com/JosielJrr/calculator.git`
 2. Abra o arquivo `index.html` em seu navegador web.
 
 ## Contribuições
