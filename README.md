@@ -1,7 +1,7 @@
 # Calculadora Web :1234:
 
 <div align="center">
-  <img src="assets/img/calculadora.PNG" alt="Logo do YouTube" width=280px>
+  <img src="assets/img/calculadora.PNG" alt="Interface do Programa de Calculadora Web" width=280px>
 </div>
 
 ## Descrição
