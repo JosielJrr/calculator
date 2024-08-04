@@ -29,3 +29,5 @@ Esta é uma aplicação web de calculadora simples que realiza operações aritm
 
 ## Contribuições
 Contribuições são bem-vindas! Por favor, faça um fork do repositório e envie um pull request com suas melhorias.
+
+> **Nota:** Este projeto foi desenvolvido como parte da Formação JavaScript Developer da [DIO](https://www.dio.me/).
